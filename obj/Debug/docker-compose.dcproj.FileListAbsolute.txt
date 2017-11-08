@@ -1,0 +1,2 @@
+C:\Users\Aamir\source\repos\TodoAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\.NET Demo\TodoAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

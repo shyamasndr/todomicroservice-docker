@@ -1,0 +1,22 @@
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.deps.json
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.json
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.dev.json
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.dll
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csprojResolveAssemblyReference.cache
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfo.cs
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.pdb
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.dll
+C:\Users\Aamir\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.pdb
+D:\.NET Demo\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.deps.json
+D:\.NET Demo\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.json
+D:\.NET Demo\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.dev.json
+D:\.NET Demo\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.dll
+D:\.NET Demo\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.pdb
+D:\.NET Demo\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csprojResolveAssemblyReference.cache
+D:\.NET Demo\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csproj.CoreCompileInputs.cache
+D:\.NET Demo\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfoInputs.cache
+D:\.NET Demo\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfo.cs
+D:\.NET Demo\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.dll
+D:\.NET Demo\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.pdb

@@ -1,0 +1,11 @@
+services:
+  todoapi:
+    build:
+      context: D:\.NET Demo\TodoAPI\TodoAPI
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: todoapi
+    ports:
+    - 80/tcp
+version: '3.0'

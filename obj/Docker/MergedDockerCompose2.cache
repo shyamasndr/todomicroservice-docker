@@ -1,0 +1,28 @@
+services:
+  todoapi:
+    build:
+      args:
+        source: obj/Docker/empty/
+      context: D:\.NET Demo\TodoAPI\TodoAPI
+      dockerfile: Dockerfile
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: todoapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  bin/Debug/netcoreapp2.0/TodoAPI.dll'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/bash -c "if PID=$$(pidof
+        -x dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - 80/tcp
+    volumes:
+    - D:\.NET Demo\TodoAPI\TodoAPI:/app:rw
+    - C:\Users\Aamir\vsdbg:/remote_debugger:ro
+    - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - C:\Users\Aamir\.nuget\packages:/root/.nuget/packages:ro
+version: '3.0'
